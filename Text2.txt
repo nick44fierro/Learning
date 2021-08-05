@@ -1,2 +1,4 @@
 some text2
 nick asd
+nick
+nick
